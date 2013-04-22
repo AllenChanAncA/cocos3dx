@@ -5,4 +5,14 @@
       <UniqueIdentifier>{a5ed0543-ca07-405d-81ff-e30b1b903854}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\core\CCObejct.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\core\CCObejct.h">
+      <Filter>core</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
