@@ -74,10 +74,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\core\CCAutoReleasePool.cpp" />
     <ClCompile Include="..\core\CCNode.cpp" />
     <ClCompile Include="..\core\CCObejct.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\core\CCAutoReleasePool.h" />
     <ClInclude Include="..\core\CCNode.h" />
     <ClInclude Include="..\core\CCObejct.h" />
   </ItemGroup>

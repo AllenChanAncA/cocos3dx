@@ -9,6 +9,10 @@ namespace cocos3dx
 	public:
 		CCObject(void);
 		virtual ~CCObject(void);
+
+	protected:
+		// count of references
+		unsigned int        m_uReference;
 	};
 }//namespace cocos3dx
 
