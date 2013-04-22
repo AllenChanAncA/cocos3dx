@@ -9,9 +9,15 @@
     <ClCompile Include="..\core\CCObejct.cpp">
       <Filter>core</Filter>
     </ClCompile>
+    <ClCompile Include="..\core\CCNode.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\core\CCObejct.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\core\CCNode.h">
       <Filter>core</Filter>
     </ClInclude>
   </ItemGroup>

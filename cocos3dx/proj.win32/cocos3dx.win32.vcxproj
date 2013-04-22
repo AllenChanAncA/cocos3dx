@@ -74,9 +74,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\core\CCNode.cpp" />
     <ClCompile Include="..\core\CCObejct.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\core\CCNode.h" />
     <ClInclude Include="..\core\CCObejct.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
