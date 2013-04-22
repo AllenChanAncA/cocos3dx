@@ -1,0 +1,3 @@
+[submodule "external/kazmath"]
+	path = external/kazmath
+	url = https://github.com/Kazade/kazmath.git
